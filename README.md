@@ -1,13 +1,11 @@
-About:
-This is a selfbot that says "!d bump" in the channel that the command was sent in every 2 hours
+About: This is a selfbot that says "!d bump" in the channel that the command was sent in every 2 hours
 
-Requirements:
-pip install -r requirements.txt
+WARNING: I'm not resposible for anything that happens to your account, self bots are against discords TOS. Anyone can report you and get your account locked if they know you're using a self bot.
 
-How to use:
-Put your discord token in token = ""
-Then go into your bump channel and type /--/bump and thats it
+Requirements: pip install -r requirements.txt, Or run the file and the reqs will auto install.
 
-Warning:
-I'm not resposible for anything that happens to your account, self bots are against discords TOS.
-Anyone can report you and get your account locked if they know you're using a self bot.
+How to use: Type ;bump in the bump channel of your server. Also read the config.py file
+
+If you have any issues go to the issues page of github.
+
+Don't leach pls
