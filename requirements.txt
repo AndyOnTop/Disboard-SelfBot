@@ -1,2 +1,7 @@
+discord
 discord.py
-andyontop
+asyncio
+time
+random
+config
+os
