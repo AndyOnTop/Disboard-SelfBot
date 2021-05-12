@@ -28,10 +28,10 @@ async def on_ready():
  /_/    \_\_| \_|_____/  |_|     \____/|_| \_|    |_|  \____/|_|    
                             Credits:
                        Andy: (andylol#1234)
-              Thanks to omens for anti selfbot detection
+    Thanks to omens for anti selfbot detection + asyncio (Omnes#0581)
     """)
     if config.stream:
-        await bot.change_presence(activity=discord.Streaming(name="Andy On Top", url=""))
+        await bot.change_presence(activity=discord.Streaming(name="Andy On Top", url="https://youtube.com"))
 
 @bot.command()
 async def bump(ctx):
